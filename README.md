@@ -1,2 +1,2 @@
 # Search-Engine-Django
-Used in Joyz
+Simple search engine with Django
